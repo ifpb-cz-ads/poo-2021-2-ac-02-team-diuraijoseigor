@@ -20,8 +20,7 @@ public class BMExercio03 {
         feijao += taxaCalculada;
         float novoCusto = arroz + feijao; 
        
-        boolean muitoCaro = novoCusto > 10;
-        muitoCaro = novoCusto <=10;
+        boolean muitoCaro = novoCusto => 10;
 
         System.out.println("O novo custo do produto e " + novoCusto);
 
