@@ -1,6 +1,6 @@
 ##BMExercio01
 
-a) F
+a) F (variavel do tipo byte só armazena valores de -128 ate 127)
 b) V
 c) F (variavel do tipo int não armazena números com pontos flutuantes)
 d) V
