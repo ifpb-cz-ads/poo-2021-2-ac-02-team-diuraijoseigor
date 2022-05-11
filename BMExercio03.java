@@ -27,7 +27,7 @@ public class BMExercio03 {
             muitoCaro = true;
             break;
         }
-        while(novoCusto <10){
+        while(novoCusto <=10){
             muitoCaro = false;
             break;
         }
