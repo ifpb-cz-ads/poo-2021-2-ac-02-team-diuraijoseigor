@@ -10,11 +10,11 @@ d) V
 
 e) V
 
-f) F (variavel do tipo boolean só armazena true ou false)
+f) F (não possui ponto e virgula fazendo que não compile)
 
 g) F ( variavel do tipo char não armazena string)
 
-h) V 
+h) F (não possui ponto e virgula fazendo que não compile)
 
 i) F (variavel float necessita do f acompanhando o valor declarado a ela)
 
